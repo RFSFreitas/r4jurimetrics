@@ -1,3 +1,4 @@
+#Alterado para Teste
 # r4jurimetrics [![Travis-CI Build Status](https://travis-ci.org/abjur/r4jurimetrics.svg?branch=master)](https://travis-ci.org/abjur/r4jurimetrics)
 
 Bem vindo ao curso R para Jurimetria :)
